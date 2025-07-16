@@ -404,9 +404,7 @@ Operating Large Language Models (LLMs) involves substantial infrastructure, deve
 
 
 ## Conclusion
-
-Amazon Bedrock is a fully managed service that provides unified API access to leading foundation models for secure and responsible AI development. It enables model experimentation, customization through fine-tuning and RAG (Retrieval-Augmented Generation), and the creation of task-executing agents. As a serverless solution, it eliminates infrastructure management while seamlessly integrating with existing AWS services.With pay-as-you-go pricing, customers can explore generative AI without significant upfront costs, enhancing business flexibility. 
-In this blog post, I showed how to integrate SAP and non-SAP environments with AWS, leveraging both Bedrock's generative AI capabilities and AWS's broader portfolio of over 200 services.
+This blog post demonstrates how to create an intelligent virtual assistant that seamlessly interacts with both SAP and non-SAP systems using AWS services, with a focus on Amazon Bedrock. The solution integrates SAP systems for sales order data, non-SAP systems for logistics information, and knowledge bases for supplementary details, all accessible through multiple user interfaces including Streamlit, Microsoft Teams, and Slack. By leveraging a suite of AWS services like Lambda, Bedrock, Secrets Manager, and DynamoDB, the implementation enables natural language interaction with complex enterprise systems, providing unified access to diverse data sources while maintaining robust security. The serverless architecture and pay-as-you-go pricing model make this an accessible and cost-effective solution for organizations looking to enhance their data access capabilities through conversational AI interfaces. The blog post provides a detailed, step-by-step guide to implementing this solution, paving the way for enterprises to leverage generative AI in their SAP and non-SAP environments
 
 Watch for my next post, where I'll walk you through implementing this solution using SAP BTP services.
 
