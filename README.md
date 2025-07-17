@@ -5,6 +5,11 @@ An Agentic AI-powered solution that enables customers to gain real-time insights
 ##  Table of Contents
 
    - [Overview](#overview)
+   - [Prerequisites](#prerequisites)
+   - [Deployment Steps](#deployment-steps)
+   - [Cost](#cost)
+   - [Demo](#demo)
+   - [Conclusion](#conclusion)
 
 ## Overview
 
